@@ -37,7 +37,6 @@ __all__ = (
     "AllowedMentions",
     "BaseMessage",
     "Message",
-    "MessageTypes",
     "process_allowed_mentions",
     "process_message_reference",
     "process_message_payload",
