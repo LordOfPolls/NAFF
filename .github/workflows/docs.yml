@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - master
+      - docs-refresh
 jobs:
   deploy:
     runs-on: ubuntu-latest
